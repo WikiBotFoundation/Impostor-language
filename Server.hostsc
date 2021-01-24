@@ -1,7 +1,7 @@
 <server version="1.9.1"
        ip.adresses(localdata.lua-script(="ip.fake
    Personalip(localdata.server == among.js
-   Personalip(localdara.server == among.cs
+   Personalip(localdata.server == among.cs
    Ip.local.script(data(.organization[], script.ip(confirm.language(cs)
        
     ####TOKENS####
