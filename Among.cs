@@ -11,3 +11,8 @@
          Xyz.data.complex.data
     <,Script #, - $scripter.data( $data
            Cs.data
+Complex.data. #, script. $scripter.data.ip(locallauncher.ip.19.bot
+Complex.data #,scripter. Data
+              Amino data.(localdata.scripter(launcher.
+            Generator.script.data(launcher.openscript.data.css.(local.script.among == cs.controlled.ip
+         Wallet.data.script(data.nameis.(data.script.(data == launcher.ip
